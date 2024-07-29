@@ -1,12 +1,8 @@
 # Ultra-Cold-Neutrino-Entanglement-with-Dark-Matter-Simulation-
 here is the detailed work flow diagram 
 
-      |
-      |
-      |
-      v
       
-+---------------+                                                        |  Ultra-Cold  |
+                                     +---------------+                                                        |  Ultra-Cold  |
                                      |  Neutrino     |
                                      |  Initial State|
                                       +---------------+                                     
