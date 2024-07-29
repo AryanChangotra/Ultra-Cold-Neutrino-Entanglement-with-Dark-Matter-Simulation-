@@ -2,7 +2,8 @@
 here is the detailed work flow diagram 
 
       
-                                     +---------------+                                                        |  Ultra-Cold  |
+                                     +---------------+
+                                     |  Ultra-Cold  |
                                      |  Neutrino     |
                                      |  Initial State|
                                       +---------------+                                     
